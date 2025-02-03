@@ -23,10 +23,10 @@ Here are some ideas to get you started:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashgatkal&label=Profile%20views&color=0e75b6&style=flat" alt="akashgatkal" /> </p>
 
 - 🔭 I’m currently working on **The Java Technology**
+-
+-   - 🌱 I’m currently working on  **Manual and Automation Testing Selenium**
 
-<!-- - 🌱 I’m currently working on  **Android and Spring Boot** -->
-
-- 💬 Ask me about **Core Java, HTML5, CSS, J2EE**
+- 💬 Ask me about **Core Java, HTML5, CSS, J2EE ,Manual Testing ,Automation Testing, Selenium,Api Testing,Javascript, SQL,**
 
 - 📫 How to reach me **akashgatkal123@gmail.com**
 
@@ -41,9 +41,9 @@ Here are some ideas to get you started:
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> </a> </p>
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=narayan-thakare&show_icons=true&locale=en&layout=compact" alt="Akash_gatkal" /></p> -->
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akashgatkale&show_icons=true&locale=en&layout=compact" alt="Akash_gatkal" /></p> 
 
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=narayan-thakare&show_icons=true&locale=en" alt="akashgatkal" /></p> -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akashgatkal&show_icons=true&locale=en" alt="akashgatkal" /></p>
 
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=narayan-thakare&" alt="" /></p> -->
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akashgatkal&" alt="" /></p> 
 
