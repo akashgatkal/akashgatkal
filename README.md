@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <img align="right" alt="coding" width="500px" src="https://i.pinimg.com/originals/f5/36/01/f53601133f236d1cb167ac19f05a3d60.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Narayan-thakare&label=Profile%20views&color=0e75b6&style=flat" alt="akashgatkal" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akashgatkal&label=Profile%20views&color=0e75b6&style=flat" alt="akashgatkal" /> </p>
 
 - 🔭 I’m currently working on **The Java Technology**
 
